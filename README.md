@@ -8,7 +8,14 @@ Questo progetto esplora l'evoluzione delle abitudini alimentari in Italia dagli 
 
 1. apri terminale
 2. cd cartella_venv
-3. source Proggetto_esame_SacilottoNatan_192131/bin/activate
-4. jupyter-notebook
+3. python3 -m venv nome_virtual_env
+4. source nome_virtual_env/bin/activate
+5. pip install notebook 
+   pip install numpy
+  pip install pandas
+  pip install matplotlib
+  pip install seaborn
+  pip install plotly
+6. jupyter-notebook
 
 
