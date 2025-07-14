@@ -17,5 +17,6 @@ Questo progetto esplora l'evoluzione delle abitudini alimentari in Italia dagli 
   pip install seaborn
   pip install plotly
 6. jupyter-notebook
+7. spostare la cartella Datasets e il file progetto_alimentazione.ipynb sulla vostra virtual enviroment 
 
 
