@@ -7,6 +7,7 @@ Questo progetto esplora l'evoluzione delle abitudini alimentari in Italia dagli 
 ### Attivazione dell'ambiente virtuale (solo la prima volta)
 
 per MAcOS:
+
 cd cartella_venv
 source Proggetto_esame_SacilottoNatan_192131/bin/activate
 jupyter-notebook
